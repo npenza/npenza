@@ -1,5 +1,5 @@
 # Noah Penza
-### A Fullstack Developer. Proficient in React & React Native, Next.js , Firebase, MongoDB, Tailwind and Git.
+### A Fullstack Web Developer. Proficient in React & React Native, Next.js , Firebase, MongoDB, Tailwind and Git.
 
 ⤷  A passionate web developer who takes pride in creating stand-out websites that users love. Bringing forth expertise in the design, installation, testing, and maintenance of web systems. Equipped with a diverse and promising skill-set. Proficient in an assortment of technologies.
 
