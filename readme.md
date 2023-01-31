@@ -7,7 +7,7 @@
 
 ⚐ Based in Sydney, Australia
 
-ϟ Currently working as a Junior Web Dev
+ϟ Currently working as a Frontend Web Dev
 
 
 
