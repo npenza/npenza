@@ -1,4 +1,4 @@
-<h3 align="center">A Fullstack Web Developer. Proficient in React & React Native, Next.js , Firebase, MongoDB, Tailwind and Git.</h3>
+<h3 align="center">A Fullstack Web Developer. Proficient in React & React Native, Next.js, Firebase, MongoDB, Tailwind and Git.</h3>
 
 <p align="left"> <a href="https://twitter.com/noahpenza" target="blank"><img src="https://img.shields.io/twitter/follow/noahpenza?logo=twitter&style=for-the-badge" alt="noahpenza" /></a> </p>
 
